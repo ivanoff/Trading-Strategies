@@ -1,10 +1,15 @@
 # Trading Strategies
 
 Documento disponible en español: [Estrategias comerciales](./README_SP.md)
+
 Document disponible en français : [Stratégies de trading](./README_FR.md)
+
 Documento disponibile in italiano: [Strategie di trading](./README_IT.md)
+
 日本語版: [取引戦略](./README_JP.md)
+
 中文版本: [交易策略](./README_CN.md)
+
 Документ доступен на русском: [Стратегии торговли](./README_RU.md)
 
 
